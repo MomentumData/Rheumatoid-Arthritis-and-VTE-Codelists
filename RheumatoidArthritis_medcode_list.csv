@@ -47,8 +47,7 @@ MedCodeID,Description
 309827014,Monarticular juvenile rheumatoid arthritis
 4809341000006114,Monoarticular juvenile rheumatoid arthritis
 2840701000006117,Dilated cardiomyopathy secondary to rheumatoid arthritis
-312534011,"[X]Seropositive rheumatoid arthritis
- unspecified",
+312534011,"[X]Seropositive rheumatoid arthritis, unspecified"
 312518013,[X]Other seropositive rheumatoid arthritis
 149911000006117,Seropositive rheumatoid arthritis
 359292012,Seronegative rheumatoid arthritis
@@ -95,8 +94,7 @@ MedCodeID,Description
 7318121000006117,RA-WIS (rheumatoid arthritis work instability scale) score
 7318111000006113,Rheumatoid arthritis work instability scale score
 3353761000006119,Extra-articular rheumatoid process
-3428901000006117,"Rheumatoid arthritis
- leucopenia AND splenomegaly",
+3428901000006117,"Rheumatoid arthritis, leucopenia AND splenomegaly"
 95067016,Felty's syndrome
 3428891000006116,"Rheumatoid arthritis
  leukopenia AND splenomegaly",
