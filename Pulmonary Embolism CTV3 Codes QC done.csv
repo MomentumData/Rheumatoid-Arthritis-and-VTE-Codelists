@@ -1,0 +1,40 @@
+Read CTV3 Code,Description
+XE0Um,Pulmonary embolus
+XaOYV,Recurrent pulmonary embolism
+X202x,Pulmonary thromboembolism
+X202y,Acute massive pulmonary embolism
+X202z,Subacute massive pulmonary embolism
+G4010,Postoperative pulmonary embolus
+L43..,Obstetric pulmonary embolism
+L432.,Obstetric blood-clot pulmonary embolism
+L4320,Obstetric blood-clot pulmonary embolism unspecified
+L4321,Obstetric blood-clot pulmonary embolism - delivered
+L4322,Obstetric blood-clot pulmonary embolism - delivered with postnatal complication
+L4323,Obstetric blood-clot pulmonary embolism with antenatal complication
+L4324,Obstetric blood-clot pulmonary embolism with postnatal complication
+L432z,Obstetric blood-clot pulmonary embolism NOS
+L43z.,Obstetric pulmonary embolism NOS
+L43z0,"Obstetric pulmonary embolism NOS, unspecified"
+L43z1,Obstetric pulmonary embolism NOS - delivered
+L43z2,Obstetric pulmonary embolism NOS - delivered with postnatal complication
+L43z3,Obstetric pulmonary embolism NOS with antenatal complication
+L43z4,Obstetric pulmonary embolism NOS with postnatal complication
+XE0xN,Other obstetric pulmonary embolism
+L43y0,Other obstetric pulmonary embolism unspecified
+L43y1,Other obstetric pulmonary embolism - delivered
+L43y2,Other obstetric pulmonary embolism - delivered with postnatal complication
+L43y3,Other obstetric pulmonary embolism with antenatal complication
+L43y4,Other obstetric pulmonary embolism with postnatal complication
+L43yz,Other obstetric pulmonary embolism NOS
+X012b,Operation for pulmonary embolism
+X012c,Embolectomy of pulmonary artery
+7A0A1,Percutaneous embolectomy of pulmonary artery
+7A093,Open pulmonary embolectomy
+X012d,Transluminal fragmentation of pulmonary embolus
+XaBMd,[V] Personal history of pulmonary embolism
+L0964,Pulmonary embolism following abortive pregnancy
+14AC.,H/O: pulmonary embolus
+X012b,Operation for pulmonary embolism
+X012c,Embelectomy of pulmonary artery
+7A0A1,Percutaneous embelectomy of pulmonary artery
+7A093,Open pulmonary embelectomy

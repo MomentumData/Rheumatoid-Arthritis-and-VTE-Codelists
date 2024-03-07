@@ -1,0 +1,52 @@
+Read CTV3 Code,Description
+N040.,Rheumatoid arthritis
+X701h,Seropositive rheumatoid arthritis
+XaBMO,Seropositive errosive rheumatoid arthritis
+Nyu11,[X]Other seropositive rheumatoid arthritis
+Nyu1G,"[X]Seropositive rheumatoid arthritis, unspecified"
+X701i,Seronegative rheumatoid arthritis
+N041.,Felty's syndrome
+X701j,Rheumatoid arthritis with organ / system involvement
+N0421,Rheumatoid lung
+X701k,Fibrosing alveolitis associated with rheumatoid arthritis
+X701l,Rheumatoid vasculitis
+X705t,Nailfold rheumatoid vasculitis
+X705u,Systemic rheumatoid vasculitis
+X705v,Necrotising rheumatoid vasculitis
+G5yA.,Rheumatoid carditis
+N042z,Rheumatoid arthropathy with visceral or systemic involvement NOS
+Nyu10,[X]Rheumatoid arthritis with involvement of other organs or systems
+X701m,Rheumatoid arthritis with multisystem involvement
+N0408,Rheumatoid arthritis of metacarpophalangeal joint
+N040B,Rheumatoid arthritis of hip
+N040D,Rheumatoid arthritis of knee
+N040C,Rheumatoid arthritis of sacroiliac joint
+N040M,Rheumatoid arthritis of interphalangeal joint of toe
+N040L,Rheumatoid arthritis of lesser metatarsophalangeal joint
+N040G,Rheumatoid arthritis of subtalar joint
+N040A,Rheumatoid arthritis of distal interphalangeal joint of finger
+N0407,Rheumatoid arthritis of wrist
+N0404,Rheumatoid arthritis of acromioclavicular joint
+N0402,Rheumatoid arthritis of shoulder
+Xa3gL,Rheumatoid arthritis - multiple joint
+N040F,Rheumatoid arthritis of ankle
+N0400,Rheumatoid arthritis of cervical spine
+N0409,Rheumatoid arthritis of proximal interphalangeal joint of finger
+N0405,Rheumatoid arthritis of elbow
+N040E,Rheumatoid arthritis of tibiofibular joint
+N040K,Rheumatoid arthritis of first metatarsophalangeal joint
+N0401,Other rheumatoid arthritis of spine
+N0403,Rheumatoid arthritis of sternoclavicular joint
+N0406,Rheumatoid arthritis of distal radioulnar joint
+N040H,Rheumatoid arthritis of talonavicular joint
+N040J,Rheumatoid arthritis of other tarsal joint
+N040T,Flare of rheumatoid arthritis
+N042.,Other rheumatoid arthropathy with visceral or systemic involvement
+Nyu12,[X]Other specified rheumatoid arthritis
+Xa3gM,Rheumatoid arthritis - hand joint
+Xa3gN,Rheumatoid arthritis - ankle/foot
+Xa3gO,Rheumatoid arthritis - other joint
+Xa3gP,Rheumatoid arthritis NOS
+XM1XV,Rheumatoid arthritis monitoring
+XaZdB,Rheumatoid arthritis annual review
+F3964,Myopathy due to rheumatoid arthritis
