@@ -1,0 +1,37 @@
+Read V2 Code,Description
+G801.,Deep vein thrombosis
+G8010,Phlebitis of the femoral vein
+G8011,Phlebitis of the popliteal vein
+G8012,Phlebitis of the anterior tibial vein
+G8013,Phlebitis of the dorsalis pedis vein
+G8014,Phlebitis of the posterior tibial vein
+G8015,Deep vein phlebitis of the leg unspecified
+G8016,Thrombophlebitis of the femoral vein
+G8017,Thrombophlebitis of the popliteal vein
+G8018,Thrombophlebitis of the anterior tibial vein
+G8019,Thrombophlebitis of the dorsalis pedis vein
+G801A,Thrombophlebitis of the posterior tibial vein
+G801B,Deep vein thrombophlebitis of the leg unspecified
+G801C,Deep vein thrombosis of leg related to air travel
+G801D,Deep vein thrombosis of lower limb
+G801E,Deep vein thrombosis of leg related to intravenous drug use
+G801F,Deep vein thrombosis of peroneal vein
+G801G,Recurrent deep vein thrombosis
+G801H,Unprovoked deep vein thrombosis
+G801J,Provoked deep vein thrombosis
+G801z,Deep vein phlebitis and thrombophlebitis of the leg NOS
+8CMWA,On deep vein thrombosis care pathway
+SP122,Post operative deep vein thrombosis
+L414.,Postnatal deep vein thrombosis
+L4140,Postnatal deep vein thrombosis unspecified
+L4141,Postnatal deep vein thrombosis - delivered with postnatal complication
+L4142,Postnatal deep vein thrombosis with postnatal complication
+L414z,Postnatal deep vein thrombosis NOS
+L413.,Antenatal deep vein thrombosis
+L4130,Antenatal deep vein thrombosis unspecified
+L4131,Antenatal deep vein thrombosis - delivered
+L4132,Antenatal deep vein thrombosis with antenatal complication
+L413z,Antenatal deep vein thrombosis NOS
+14A81,H/O: Deep Vein Thrombosis
+ZV128,[V] Personal history DVT - deep vein thrombosis
+G8020,Thrombosis of vein of leg

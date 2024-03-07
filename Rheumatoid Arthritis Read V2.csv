@@ -1,0 +1,53 @@
+Read V2 Code,Description
+N040.,Rheumatoid arthritis
+N0400,Rheumatoid arthritis of cervical spine
+N0401,Other rheumatoid arthritis of spine
+N0402,Rheumatoid arthritis of shoulder
+N0403,Rheumatoid arthritis of sternoclavicular joint
+N0404,Rheumatoid arthritis of acromioclavicular joint
+N0405,Rheumatoid arthritis of elbow
+N0406,Rheumatoid arthritis of distal radio-ulnar joint
+N0407,Rheumatoid arthritis of wrist
+N0408,Rheumatoid arthritis of metacarpophalangeal joint
+N0409,Rheumatoid arthritis of proximal interphalangeal joint of finger
+N040A,Rheumatoid arthritis of distal interphalangeal joint of finger
+N040B,Rheumatoid arthritis of hip
+N040C,Rheumatoid arthritis of sacro-iliac joint
+N040D,Rheumatoid arthritis of knee
+N040E,Rheumatoid arthritis of tibio-fibular joint
+N040F,Rheumatoid arthritis of ankle
+N040G,Rheumatoid arthritis of subtalar joint
+N040H,Rheumatoid arthritis of talonavicular joint
+N040J,Rheumatoid arthritis of other tarsal joint
+N040K,Rheumatoid arthritis of 1st metatarsophalangeal joint
+N040L,Rheumatoid arthritis of lesser metatarsophalangeal joint
+N040M,Rheumatoid arthritis of interphalangeal joint of toe
+N040N,Rheumatoid vasculitis
+N040P,Seronegative rheumatoid arthritis
+N040Q,Rheumatoid bursitis
+N040R,Rheumatoid nodule
+N040S,Rheumatoid arthritis - multiple joint
+N040T,Flare of rheumatoid arthritis
+H570.,Rheumatoid lung
+G5yA.,Rheumatoid carditis
+N041.,Felty's syndrome
+N042.,Other rheumatoid arthropathy with visceral or systemic involvement
+N0420,Rheumatic carditis
+N0422,Rheumatoid nodule
+N042z,Rheumatoid arthropathy with visceral or systemic involvement NOS
+N043.,Juvenile rheumatoid arthritis - Still's disease
+N0430,Juvenile rheumatoid arthropathy unspecified
+N0431,Acute polyarticular juvenile rheumatoid arthritis
+N0432,Pauciarticular juvenile rheumatoid arthritis
+N0433,Monarticular juvenile rheumatoid arthritis
+N043z,Juvenile rheumatoid arthritis NOS
+N047.,Seropositive errosive rheumatoid arthritis
+N04X.,"Seropositive rheumatoid arthritis, unspecified"
+N04y0,Rheumatoid lung
+66HB0,Rheumatoid arthritis annual review
+66HC.,Rheumatic disorder annual review invitation
+66HZ.,Rheumatol.dis. monitoring NOS
+F3964,Myopathy due to rheumatoid arthritis
+Nyu10,[X]Rheumatoid arthritis with involvement of other organs or systems
+Nyu11,[X]Other seropositive rheumatoid arthritis
+Nyu12,[X]Other specified rheumatoid arthritis
