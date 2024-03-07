@@ -1,4 +1,4 @@
-# Momentum Data Rheumatoid Arthritis (RA) and Venous Thromboembolism (VTE) codelists
+# Momentum Data Rheumatoid Arthritis and Venous Thromboembolism codelists
 Codelists from Momentum Data, utilised for the study titled: *"Exploring temporal trends in the incidence and prevalence of rheumatoid arthritis and VTE risk factors in women with rheumatoid arthritis in England"*
 
 ## Quality control 
@@ -7,7 +7,7 @@ All the codelists utilised for data extraction underwent the rigorous quality co
 ## Algorithms for identification
 
 ### Rhuematoid arthritis
-1. Any individual with a [RA specific diagnosis code](https://github.com/MomentumData/Rheumatoid-Arthritis-and-VTE-Codelists/tree/e8e40909d595c81c0a33041f3f19f5a5bfd5cc9f/Rheumatoid%20Arthritis)
+1. Any individual with a [rheumatoid arthritis diagnosis code](https://github.com/MomentumData/Rheumatoid-Arthritis-and-VTE-Codelists/tree/e8e40909d595c81c0a33041f3f19f5a5bfd5cc9f/Rheumatoid%20Arthritis)
 2. No diagnosis code for [ankylosing spondylitis](https://github.com/MomentumData/Rheumatoid-Arthritis-and-VTE-Codelists/tree/e8e40909d595c81c0a33041f3f19f5a5bfd5cc9f/Ankylosing%20Spondylitis) **OR** [psoriatic arthritis](https://github.com/MomentumData/Rheumatoid-Arthritis-and-VTE-Codelists/tree/e8e40909d595c81c0a33041f3f19f5a5bfd5cc9f/Psoriatic%20Arthritis)
 
 ### Venous thromboembolism
