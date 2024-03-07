@@ -1,4 +1,4 @@
-# Momentum Data Rheumatoid Arthritis and Venous Thromboembolism codelists
+# Momentum Data Rheumatoid Arthritis (RA) and Venous Thromboembolism (VTE) codelists
 Codelists from Momentum Data, utilised for the study titled: *"Exploring temporal trends in the incidence and prevalence of rheumatoid arthritis and VTE risk factors in women with rheumatoid arthritis in England"*
 
 ## Quality control 
