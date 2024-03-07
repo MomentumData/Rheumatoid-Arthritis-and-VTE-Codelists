@@ -12,7 +12,7 @@ All the codelists utilised for data extraction underwent the rigorous quality co
 
 ### Pulmonary embolism
 - Any individual with a code for [pulmonary embolism](https://github.com/MomentumData/Rheumatoid-Arthritis-and-VTE-Codelists/tree/e8e40909d595c81c0a33041f3f19f5a5bfd5cc9f/Pulmonary%20Embolism).
-- 
+
 ### Deep vein thrombosis
 - Any individual with a code for [deep vein thrombosis](https://github.com/MomentumData/Rheumatoid-Arthritis-and-VTE-Codelists/tree/e8e40909d595c81c0a33041f3f19f5a5bfd5cc9f/Deep%20Vein%20Thrombosis).
 
