@@ -1,0 +1,6 @@
+ICD10,Description
+I26,Pulmonary embolism
+I26.0,Pulmonary embolism with mention of acute cor pulmonale
+I26.9,Pulmonary embolism without mention of acute cor pulmonale
+O88,Obstetric embolism
+O88.2,Obstetric blood-clot embolism
